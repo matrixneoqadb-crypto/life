@@ -1,3 +1,4 @@
+
 # life[mxai@hd173688 ~]$ cat /etc/0+5/SPECTRUM.md
 # 0+5 SPECTRUM v0.54.0 "MOUNTION"
 
